@@ -82,13 +82,16 @@ Resultado esperado: `All tests passed!` (14 pruebas).
 
 ### Pruebas pasando
 
-![Todas las pruebas pasando](docs/capturas/01-tests-verde.png)
+<img width="770" height="68" alt="image" src="https://github.com/user-attachments/assets/84e585ce-bd6e-4c6d-8522-577bb01b33f8" />
+
 
 ### App corriendo
 
 | Bienvenida | Votar | Resultados |
 |---|---|---|
-| ![Bienvenida](docs/capturas/02-bienvenida.png) | ![Votar](docs/capturas/03-votar.png) | ![Resultados](docs/capturas/04-resultados.png) |
+| <img width="620" height="975" alt="image" src="https://github.com/user-attachments/assets/b4cc06c1-e9c2-46bf-b9da-d76a3687cadc" /> | <img width="622" height="880" alt="image" src="https://github.com/user-attachments/assets/4a6eca03-7ec8-4809-9e5a-8de232fd1843" /> | <img width="622" height="881" alt="image" src="https://github.com/user-attachments/assets/93302553-1666-493a-a9c0-e9d52b6f464d" /> |
+|---|<img width="635" height="887" alt="image" src="https://github.com/user-attachments/assets/b0f37b32-d499-4316-b943-4af033317e41" /> | <img width="627" height="937" alt="image" src="https://github.com/user-attachments/assets/a9419c8b-a0dd-444b-9c00-91e4ef3e285a" /> |
+ 
 
 ---
 
